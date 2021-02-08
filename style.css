@@ -1,0 +1,56 @@
+.container{
+    margin-bottom: 100px;
+}
+
+#logo{
+    height: 100px;
+}
+
+.buy-button{
+    background-color: black;
+    padding: 10px 25px;
+    color: #fff;
+    border-radius: 8px;
+    border: none;
+    margin-top: 15px;
+}
+
+.text{
+    color: #928181;
+}
+
+.see-text{
+    text-align: right;
+    color: #FF9D00;
+}
+
+.card{
+    border: none;
+    border-top: none;
+    border-radius: 10px;
+    box-shadow: 8px 8px 15px lightgrey ;
+}
+
+.card-body{
+    text-align: center;
+}
+
+.cat-text{
+    text-align: center;
+}
+
+.text-align{
+    text-align: center;
+    padding-top: 20px;
+}
+
+hr.rounded {
+    color: orange ;
+    width: 12%;
+    border-radius: 8px;
+    border-top: 8px solid;
+  }
+
+  #cat-img{
+      height: 450px;
+  }
